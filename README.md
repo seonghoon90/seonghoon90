@@ -25,7 +25,6 @@ AI 데이터 구축·품질 관리와 백엔드 개발 경험을 바탕으로
 - Redpanda 기반 Stream replay 60,925건의 연속성과 적재 결과를 SQL로 확인
 
 [Repository](https://github.com/taehyunan-99/NOxO_Project_Repo)
-· [Portfolio](https://seonghoon-portfolio.netlify.app/)
 
 ### Edu With Me
 
